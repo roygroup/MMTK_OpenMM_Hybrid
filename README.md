@@ -1,5 +1,3 @@
-testing 1 2 3
+Refer to MMTK_OpenMM_Installation.tex for installation instructions for MMTK and OpenMM.
 
-Test UPDATE
-
-
+Specific README's will be available in each directory to help you run the scripts.
