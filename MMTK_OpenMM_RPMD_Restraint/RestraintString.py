@@ -4,6 +4,7 @@
 #Last modified: June 17, 2013
 
 """
+---------------------------------------------------------------------------------------
 Copyright (c) 2013 Stephen Constable, Nabil Faruk, Kevin Bishop, Pierre-Nicholas Roy
 All rights reserved.
 
@@ -28,6 +29,7 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+---------------------------------------------------------------------------------------
 """
 
 def CreateRestraintString(g1,g2,k0,r0,option):
